@@ -1,5 +1,3 @@
-<sub>Copyright 2026 Mustafa Khodir. All rights reserved. Photos, videos and designs may not be reused without permission.</sub>
-
 # Pepper Hospital Assistant
 
 A SoftBank Pepper humanoid robot set up as a hospital assistant. Pepper greets a visitor at the main reception, listens for the name of a ward, drives to that room on our hospital map and tells the visitor about the ward. When the visitor says goodbye it ends with a Tai Chi Chuan dance for the patients. The behaviour was built in Choregraphe, the visual programming tool for Pepper.
