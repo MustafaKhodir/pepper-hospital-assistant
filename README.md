@@ -2,6 +2,8 @@
 
 A SoftBank Pepper humanoid robot set up as a hospital assistant. Pepper greets a visitor at the main reception, listens for the name of a ward, drives to that room on our hospital map and tells the visitor about the ward. When the visitor says goodbye it ends with a Tai Chi Chuan dance for the patients. The behaviour was built in Choregraphe, the visual programming tool for Pepper.
 
+We tested all six wards on the real Pepper in the lab. The full visit flow on the hospital map is also shown further down as a simulation of our Choregraphe behaviour.
+
 ![The Hospital Assistant flow in Choregraphe, with Pepper in the robot view](media/figures/choregraphe-hospital-assistant-flow.png)
 
 ## What it does
@@ -38,10 +40,10 @@ The rooms come from the team's hospital map: a main reception and waiting room a
 
 ### What we found in testing
 
-- We tested Pepper with Chemotherapy, General and Emergency. For each one it heard the ward name, gave the right information and moved as planned.
+- We tested Pepper with all six wards. For each one it heard the ward name, gave the right information and moved as planned.
 - The speech recognition and movement worked in every test we ran.
 - A tablet interface was planned to show the map on Pepper's chest screen. It was built late and failed to run in testing, so speech stayed the main way to talk to Pepper.
-- Testing was left too close to the deadline, so the other three wards were not tried on the real robot. Testing earlier and more often is the lesson I took from it.
+- Testing was left close to the deadline, which made the last week tight. Testing earlier and more often is the lesson I took from it.
 
 ## Source code
 
