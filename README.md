@@ -16,7 +16,7 @@ We tested all six wards on the real Pepper in the lab. The full visit flow on th
 
 ## My role
 
-This was a university team project in early 2022, with six of us by the end. I led the team. I came up with ideas, assigned roles in Jira based on each person's strengths, researched the project management methods and chose Parallel Agile for the team, designed the logo and the first sketch of the user interface, built the project website and led the final presentation. I also worked on part of the Choregraphe programming for the behaviour.
+I led the team. I came up with ideas, assigned roles in Jira based on each person's strengths, researched the project management methods and chose Parallel Agile for the team, designed the logo and the first sketch of the user interface, built the project website and led the final presentation. I also worked on part of the Choregraphe programming for the behaviour.
 
 ## How it works
 
@@ -67,8 +67,6 @@ This was a team project built in Choregraphe. The behaviour flow is shown above,
 The full run with captions and music:
 
 https://github.com/user-attachments/assets/4cac92d1-43b4-467f-b34b-648731135532
-
-The same video is in the repo as [pepper-hospital-assistant-sim.mp4](media/demo/pepper-hospital-assistant-sim.mp4) (35 s).
 
 ![The project logo I designed, Pepper as a nurse for Team 42](media/figures/project-logo.jpg)
 
